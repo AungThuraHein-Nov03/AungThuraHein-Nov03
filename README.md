@@ -1,4 +1,4 @@
-# Hi there! I'm Aung Thura Hein 👋
+<div aligh="center"> # Hi there! I'm Aung Thura Hein 👋 </div>
 
 <div align="center">
 
