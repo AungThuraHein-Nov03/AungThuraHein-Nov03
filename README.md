@@ -1,4 +1,4 @@
-## Hi there! I'm Aung Thura Hein 👋
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d2224222-608c-4cec-a969-66d148693f34" />## Hi there! I'm Aung Thura Hein 👋
 
 <div align="center">
 
@@ -6,9 +6,13 @@
 
 **Studying Computer Science at Assumption University**
 **Planned to fork into App/Game Developments**
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AungThuraHein-Nov03)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ssolsticee_)
+
+</div>
+---------------------------------------
+##👓 About Me!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
