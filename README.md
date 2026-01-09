@@ -1,5 +1,10 @@
 ## Hi there! I'm Aung Thura Hein 👋
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Passionate+About+Learning;AI/ML+Enthusiast;Always+Learning+New+Skills)
+
+**🎓 Computer Science Student at Assumption University of Thailand**
 <!--
 **AungThuraHein-Nov03/AungThuraHein-Nov03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
