@@ -1,6 +1,7 @@
-<div align="center"> ## Hi there! I'm Aung Thura Hein 👋 </div>
 
 <div align="center">
+  
+## Hi there! I'm Aung Thura Hein 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Passionate+About+Learning;Always+Trying+To+Be+A+Better+Person;Always+Learning+New+Skills)
 
