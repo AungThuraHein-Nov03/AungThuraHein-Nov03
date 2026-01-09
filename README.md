@@ -2,12 +2,11 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Passionate+About+Learning;AI/ML+Enthusiast;Always+Learning+New+Skills)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Passionate+About+Learning;Always+Learning+To+Be+A+Better+Person;Always+Learning+New+Skills)
 
 **Studying Computer Science at Assumption University**
 **Planned to fork into App/Game Developments**
-<!--
-**AungThuraHein-Nov03/AungThuraHein-Nov03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AungThuraHein-Nov03)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ssolsticee_)
 Here are some ideas to get you started:
