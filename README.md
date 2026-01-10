@@ -1,7 +1,7 @@
 
 <div align="center">
   
-## Greetings stranger! I'm Aung Thura Hein 👋
+## Greetings potential acquaintance! I'm Aung Thura Hein 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Passionate+About+Learning;Always+Trying+To+Be+A+Better+Person;Always+Learning+New+Skills)
 
@@ -18,7 +18,7 @@
 ## 👓 About Me!
 - 🌿 2nd Year Computer Science Student 
 - 📚 Currently taking **Web Development**, **Data Science**, **Android App Developments**, **Database Systems**, **Computer Networks**
-- 👾 Interested in game developments (Haven't start studying yet)
+- 👾 Interested in game developments (Started looking into Unity GE)
   
 ---
 ## 🖥️ Tech Stack
@@ -54,6 +54,7 @@
 📊 Data Science          █████████████░░░░░░░░░░░░   50%
 🌐 Web Development       ███████████░░░░░░░░░░░░░░   45%
 🗃️ Database (SQL)        ████████░░░░░░░░░░░░░░░░░   30%
+🎮 Unity Game Engine     ░░░░░░░░░░░░░░░░░░░░░░░░░    0%
 ```
 
 ---
