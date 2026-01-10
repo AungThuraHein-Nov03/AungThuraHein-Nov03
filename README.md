@@ -62,7 +62,7 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AungThuraHein-Nov03&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AungThuraHein-Nov03&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
 
 
