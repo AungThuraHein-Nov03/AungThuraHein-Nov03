@@ -3,7 +3,7 @@
   
 ## Greetings potential acquaintance! I'm Aung Thura Hein 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Slow+But+I'm+Trying;Always+Trying+To+Be+A+Better+Person;Always+Learning+New+Skills)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=A+Dungeons+And+Dragons+Nerd;Music+Addict;Always+Trying+To+Be+A+Better+Person;Always+Learning+New+Skills)
 
 **Studying Computer Science at Assumption University** <br>
 **Planned to fork into App/Game Developments**
