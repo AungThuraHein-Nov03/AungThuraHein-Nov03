@@ -63,6 +63,10 @@
 
 ---
 
+![](https://img.shields.io/github/last-commit/AungThuraHein-Nov03/AungThuraHein-Nov03?&style=for-the-badge&color=429ddb&labelColor=141a29)
+
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AungThuraHein-Nov03)](https://git.io/streak-stats)
 
 
