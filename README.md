@@ -18,8 +18,47 @@
 
 ## 👓 About Me!
 - 🌿 2nd Year Computer Science Student 
-- 📚 Currently taking **Web Development**, **Data Science**, **Android App Developments**, **Database Systems**, **Computer Networks**
+- ✅ Completed this term: **Web Development**, **Data Science**, **Android App Developments**, **Database Systems**, **Computer Networks**
 - 👾 Interested in game developments (Started looking into Unity GE, haven't start C#)
+- Currently spending a fair amount learning Ai related courses in Coursera and completing some summer projects.
+
+### 📚 Completed Learning
+
+<details>
+<summary>Recently completed university coursework</summary>
+
+- `CSX4107` - **Web Application Development:** Frontend and backend development with React, Next.js, REST APIs, authentication, and deployment-focused workflows.
+- `ITX2007` - **Data Science:** Python and Jupyter workflows for EDA, data cleaning, statistics, regression, and foundational machine learning.
+- `CSX4109` - **Android App Development:** Mobile app development fundamentals, Android UI patterns, activity lifecycle, data handling, and app deployment basics.
+- `CSX3006` - **Database Systems:** Relational modeling, SQL, normalization, indexes, stored procedures, and database-driven application design.
+- `CSX3005` - **Computer Networks:** Layered networking concepts, core protocols, routing, and internet communication fundamentals.
+</details>
+
+### Coursework Foundation
+
+- My earlier coursework gave me a practical foundation in mathematics, programming, communication, sustainability, business systems, and data-driven problem solving.
+
+<details>
+<summary>Earlier completed coursework</summary>
+
+- `BBA1006` - **Essential Economics for Entrepreneurs:** Rational choice, market forces, elasticity, production costs, market structures, macro indicators, and fiscal and monetary policy.
+- `CSX2006` - **Mathematics and Statistics for Data Science:** Quantitative reasoning for data work, including statistics, regression, clustering, and spreadsheet-based analytical practice.
+- `CSX2008` - **Mathematics Foundation for Computer Science:** Logic, sets, functions, relations, counting, induction, number theory, and graph-based reasoning.
+- `CSX3001` - **Fundamentals of Computer Programming:** Python-based programming fundamentals with variables, control flow, functions, modules, and hands-on problem solving.
+- `CSX3002` - **Object-Oriented Concepts and Programming:** Java and OOP fundamentals centered on classes, objects, inheritance, and structured programming exercises.
+- `CSX3003` - **Data Structures and Algorithms:** Core data structures, sorting, heaps, runtime analysis, and implementation-focused algorithm practice.
+- `ELE1002` - **Communicative English II:** Intermediate English communication across speaking, listening, reading, and writing for academic and daily use.
+- `ELE2000` - **Academic English:** Thesis and topic sentences, essay organization, summaries, compare-and-contrast writing, and presentation practice.
+- `ELE2001` - **Advanced Academic English:** Response writing, citation and reference skills, persuasive communication, data presentation, and business-style reporting.
+- `GE1303` - **Science for Sustainable Future:** Ecology, pollution, energy resources, waste, population issues, and sustainability-focused case studies.
+- `GE1411` - **Thai Language for Multicultural Communication:** Everyday Thai usage together with Thai culture, geography, festivals, ceremonies, and social customs.
+- `GE2202` - **Ethics:** Comparative understanding of different religions and ethical skills needed for everyday life and responsible decision-making.
+- `ITX2004` - **UI/UX Design and Prototyping:** User research, personas, journey mapping, wireframing, Figma prototyping, visual design, and usability testing.
+- `ITX2005` - **Design Thinking:** Empathy work, problem definition, ideation, prototyping, storytelling, and pitch-oriented project development.
+- `ITX3002` - **Introduction to Information Technology:** Core IT concepts, business-oriented tools, and practical worksheet and spreadsheet-based problem solving.
+- `ITX3003 / CSX4401` - **Business Systems:** MIS concepts, e-business, business intelligence, digital ecosystems, ERP, and supply-chain-oriented systems thinking.
+- `ITX3007` - **Software Engineering:** Software lifecycle fundamentals, requirements thinking, project planning, documentation, and team-based term project work.
+</details>
   
 ---
 ## 🖥️ Tech Stack
