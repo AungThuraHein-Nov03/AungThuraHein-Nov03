@@ -4,7 +4,7 @@
   
 ## Greetings potential acquaintance! I'm Aung Thura Hein 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=A+Dungeons+And+Dragons+Nerd;Music+Addict;Always+Trying+To+Be+A+Better+Person;Always+Learning+New+Skills)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Dungeons+And+Dragons+Nerd;Music+Addict;Always+Trying+To+Be+A+Better+Person;Always+Learning+New+Skills)
 
 **Studying Computer Science at Assumption University** <br>
 **Planned to fork into App/Game Developments**
@@ -20,6 +20,7 @@
 - 🌿 2nd Year Computer Science Student 
 - ✅ Completed this term: **Web Development**, **Data Science**, **Android App Developments**, **Database Systems**, **Computer Networks**
 - 👾 Interested in game developments (Started looking into Unity GE, haven't start C#)
+- 🧪 Interested in Data Science.
 - Currently spending a fair amount learning Ai related courses in Coursera and completing some summer projects.
 
 ### 📚 Completed Learning
@@ -70,6 +71,7 @@
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -83,6 +85,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
@@ -92,17 +95,22 @@
 ## 📊 Skills & Expertise
 
 ```text
-🎨 UI/UX Design          ████████████████████░░░░░   80%
+🎨 UI/UX Design          ██████████████████████░░░   85%
 🐍 Python Programming    ████████████████░░░░░░░░░   65%
 📊 Data Science          █████████████░░░░░░░░░░░░   50%
 🌐 Web Development       ███████████░░░░░░░░░░░░░░   45%
 🗃️ Database (SQL)        ████████░░░░░░░░░░░░░░░░░   30%
 🎮 Unity Game Engine     ░░░░░░░░░░░░░░░░░░░░░░░░░    0%
+📱 Kotlin                █████████████████░░░░░░░░   70%
 ```
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AungThuraHein-Nov03&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+![](https://img.shields.io/github/last-commit/AungThuraHein-Nov03/AungThuraHein-Nov03?&style=for-the-badge&color=429ddb&labelColor=141a29)
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AungThuraHein-Nov03)](https://git.io/streak-stats)
 
 
 
