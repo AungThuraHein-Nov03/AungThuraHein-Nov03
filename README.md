@@ -17,11 +17,22 @@
 ---
 
 ## 👓 About Me!
-- 🌿 2nd Year Computer Science Student 
+- 🌿 3rd Year Computer Science Student 
 - ✅ Completed this term: **Web Development**, **Data Science**, **Android App Developments**, **Database Systems**, **Computer Networks**
 - 👾 Interested in game developments (Started looking into Unity GE, haven't start C#)
 - 🧪 Interested in Data Science.
-- Currently spending a fair amount learning Ai related courses in Coursera and completing some summer projects.
+
+### 📚 Current Semester Courses
+
+<details>
+<summary>Current semester coursework</summary>
+
+- `BBA1004` - **Essential Marketing for Entrepreneurs:** Market segmentation, consumer behavior, branding, pricing, and promotion strategies tailored for startups and entrepreneurial ventures.
+- `CSX2009` - **Cloud Computing:** Cloud service and deployment models, virtualization, containers, scalability, and hands-on work with leading cloud platforms.
+- `CSX3004` - **Programming Language:** Language paradigms, syntax and semantics, compilation and interpretation, type systems, and a comparative study across languages.
+- `CSX4201` - **AI Concepts:** Artificial intelligence foundations, search and optimization, knowledge representation, reasoning, and core problem-solving techniques.
+- `CSX4203` - **Machine Learning:** Supervised and unsupervised learning, model training and evaluation, regression, classification, and applied ML workflows.
+</details>
 
 ### 📚 Completed Learning
 
