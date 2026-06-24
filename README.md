@@ -30,6 +30,7 @@
 - `BBA1004` - **Essential Marketing for Entrepreneurs:** Market segmentation, consumer behavior, branding, pricing, and promotion strategies tailored for startups and entrepreneurial ventures.
 - `CSX2009` - **Cloud Computing:** Cloud service and deployment models, virtualization, containers, scalability, and hands-on work with leading cloud platforms.
 - `CSX3004` - **Programming Language:** Language paradigms, syntax and semantics, compilation and interpretation, type systems, and a comparative study across languages.
+- `CSX3009` - **Algorithm Design:** Divide-and-conquer, greedy methods, dynamic programming, correctness proofs, and time-complexity analysis for harder problem-solving tasks.
 - `CSX4201` - **AI Concepts:** Artificial intelligence foundations, search and optimization, knowledge representation, reasoning, and core problem-solving techniques.
 - `CSX4203` - **Machine Learning:** Supervised and unsupervised learning, model training and evaluation, regression, classification, and applied ML workflows.
 </details>
